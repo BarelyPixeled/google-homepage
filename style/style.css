@@ -1,0 +1,16 @@
+.head li {
+    list-style-type: none;
+    display: inline;
+}
+
+#head-left {
+    float: left;
+}
+
+#head-right {
+    float: right;
+}
+
+#search-block {
+    clear: both;
+}
